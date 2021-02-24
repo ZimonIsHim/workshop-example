@@ -7,6 +7,7 @@ public class Main {
         System.out.println(sum(12, 12));
         System.out.println(mul(12, 12));
         System.out.println(mul(12.0, 12.0));
+        System.out.println("Fork test");
         mergeConflict("This creates a merge conflict!!");
     }
 
